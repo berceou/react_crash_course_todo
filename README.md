@@ -1,5 +1,8 @@
 # React Crash Course  
 
+## Demo  
+![demo-todo-list](img\todolist-react-crash-course.gif)
+
 ## What is the React
 **React** is library of JavaScript created by Facebook and is used for building user interface (UIs) and/or front-end applications. It is often called a framework because of it's behavior and capabilities.  
 
